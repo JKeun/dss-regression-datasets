@@ -1,4 +1,4 @@
-## New York City Taxi Trip Duration
+## [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 Share code and data to improve ride time predictions
 
 ![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-nyc-taxi-trip-duration-data/header.png)
