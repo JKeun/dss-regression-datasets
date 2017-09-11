@@ -1,7 +1,7 @@
 ## New York City Taxi Trip Duration
 Share code and data to improve ride time predictions
 
-![](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwis5N6-vJzWAhVLJpQKHWucApcQjRwIBw&url=https%3A%2F%2Fwallpaperscraft.com%2Fdownload%2Fnew_york_city_street_taxi_58960%2F3840x1200&psig=AFQjCNGcP1mCFcdXQ244fxWFTqF5jsCdgA&ust=1505196606946488)
+![](https://wallpaperscraft.com/download/new_york_city_street_taxi_58960/3840x1200#)
 ---
 
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.

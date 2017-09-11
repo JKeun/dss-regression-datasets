@@ -1,7 +1,8 @@
 ## Sberbank Russian Housing Market
 Can you predict realty price fluctuations in Russia’s volatile economy? 
 
-![](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwipjcrnvJzWAhUTv5QKHWIBAWAQjRwIBw&url=https%3A%2F%2Farchi.ru%2Fen%2F68617%2Fzakha-v-skolkovo-tekhnopark-sberbanka&psig=AFQjCNFr9OLgg3gmD-VpJQF27vj7XP8qBg&ust=1505196659087158)
+![](https://i.archi.ru/i/650/212589.jpg)
+
 ---
 
 Housing costs demand a significant investment from both consumers and developers. And when it comes to planning a budget—whether personal or corporate—the last thing anyone needs is uncertainty about one of their biggets expenses. Sberbank, Russia’s oldest and largest bank, helps their customers by making predictions about realty prices so renters, developers, and lenders are more confident when they sign a lease or purchase a building.
