@@ -9,12 +9,12 @@ Predict sales prices and practice feature engineering, RFs, and gradient boostin
 #### [2. New York City Taxi Trip Duration](https://github.com/JKeun/dss-regression-datasets/blob/master/project-nyc-taxi-trip-duration-data/README.md)
 Share code and data to improve ride time predictions
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZph7bSEE6ALY67kmS0os5XUHjsuHmuJQuRXcABZWqx--kotua)
+![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-nyc-taxi-trip-duration-data/header.png)
 
 #### [3. Sberbank Russian Housing Market](https://github.com/JKeun/dss-regression-datasets/blob/master/project-sberbank-housing-market-data/README.md)
 Can you predict realty price fluctuations in Russia’s volatile economy?
 
-![](https://i.archi.ru/i/650/212589.jpg)
+![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-sberbank-housing-market-data/header.png)
 
 #### [4. Toyota Corolla Prices](https://github.com/JKeun/dss-regression-datasets/blob/master/project-toyotacorolla-data/README.md)
 Predict used Toyota Corolla car prices

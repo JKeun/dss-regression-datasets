@@ -1,7 +1,7 @@
 ## Sberbank Russian Housing Market
 Can you predict realty price fluctuations in Russia’s volatile economy? 
 
-![](https://i.archi.ru/i/650/212589.jpg)
+![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-sberbank-housing-market-data/header.png)
 
 ---
 
