@@ -2,6 +2,8 @@
 
 Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
+![](https://kaggle2.blob.core.windows.net/competitions/kaggle/5407/media/housesbanner.png)
+
 ---
 
 ### Start here if...
