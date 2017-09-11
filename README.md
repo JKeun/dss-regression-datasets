@@ -19,4 +19,4 @@ Can you predict realty price fluctuations in Russia’s volatile economy?
 #### [4. Toyota Corolla Prices](https://github.com/JKeun/dss-regression-datasets/blob/master/project-toyotacorolla-data/README.md)
 Predict used Toyota Corolla car prices
 
-![](http://dynimages.themotorreport.com.au/MNvgDPURYa8OnowzpR7-0zZoVnM=/fit-in/x/filters:stretch(FFFFFF)/editorial/articleLeadwide-2017-toyota-corolla-sedangnstuv.jpg)
+![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-toyotacorolla-data/header.jpg)
