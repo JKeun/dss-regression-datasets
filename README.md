@@ -30,7 +30,7 @@ Predict used Toyota Corolla car prices
 
 #### [1. root-mean-square deviation (RMSD) or root-mean-square error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
-<center><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d5"></center>
+<center><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d516d"></center>
 
 - [sklearn.metrics.mean_squared_error](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 ```
