@@ -23,3 +23,28 @@ Can you predict realty price fluctuations in Russia’s volatile economy?
 Predict used Toyota Corolla car prices
 
 ![](https://github.com/JKeun/dss-regression-datasets/blob/master/project-toyotacorolla-data/header.jpg)
+
+---
+
+### KEY METRICS
+
+#### 1. root-mean-square deviation (RMSD) or root-mean-square error (RMSE)
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d516d)
+
+[sklearn.metrics.mean_squared_error](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+```
+sklearn.metrics.mean_squared_error(y_true, y_pred, sample_weight=None, multioutput=’uniform_average’)
+```
+
+#### 2. Root Mean Squared Logarithmic Error (RMSLE)
+$$\epsilon = \sqrt{\frac{1}{n} \sum_{i=1}^n (\log(p_i + 1) - \log(a_i+1))^2 }$$
+
+```
+def rmsle(predicted,real):
+    sum=0.0
+    for x in range(len(predicted)):
+        p = np.log(predicted[x]+1)
+        r = np.log(real[x]+1)
+        sum = sum + (p - r)**2
+    return (sum/len(predicted))**0.5
+```
