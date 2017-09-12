@@ -30,7 +30,7 @@ Predict used Toyota Corolla car prices
 
 #### [1. root-mean-square deviation (RMSD) or root-mean-square error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
-<center>![]("https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d5)</center>
+<center><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d5></center>
 
 - [sklearn.metrics.mean_squared_error](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 ```
@@ -44,7 +44,7 @@ rmse = mean_squared_error(y_true, y_pred)**(1/2)
 
 #### 2. Root Mean Squared Logarithmic Error (RMSLE)
 
-<center>![](https://kaggle2.blob.core.windows.net/forum-message-attachments/9799/rmsle.png)</center>
+<center><img src="https://kaggle2.blob.core.windows.net/forum-message-attachments/9799/rmsle.png"></center>
 
 ```
 def rmsle(predicted,real):
