@@ -28,16 +28,23 @@ Predict used Toyota Corolla car prices
 
 ### KEY METRICS
 
-#### 1. root-mean-square deviation (RMSD) or root-mean-square error (RMSE)
-![](https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d516d)
+#### [1. root-mean-square deviation (RMSD) or root-mean-square error (RMSE)](https://en.wikipedia.org/wiki/Root-mean-square_deviation)
 
-[sklearn.metrics.mean_squared_error](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+<center>![]("https://wikimedia.org/api/rest_v1/media/math/render/svg/6d689379d70cd119e3a9ed3c8ae306cafa5d5)</center>
+
+- [sklearn.metrics.mean_squared_error](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 ```
-sklearn.metrics.mean_squared_error(y_true, y_pred, sample_weight=None, multioutput=’uniform_average’)
+# sklearn.metrics.mean_squared_error(y_true, y_pred, sample_weight=None, multioutput=’uniform_average’)
+
+from sklearn.metrics import mean_squared_error
+y_true = [3, -0.5, 2, 7]
+y_pred = [2.5, 0.0, 2, 8]
+rmse = mean_squared_error(y_true, y_pred)**(1/2)
 ```
 
 #### 2. Root Mean Squared Logarithmic Error (RMSLE)
-$$\epsilon = \sqrt{\frac{1}{n} \sum_{i=1}^n (\log(p_i + 1) - \log(a_i+1))^2 }$$
+
+<center>![](https://kaggle2.blob.core.windows.net/forum-message-attachments/9799/rmsle.png)</center>
 
 ```
 def rmsle(predicted,real):
